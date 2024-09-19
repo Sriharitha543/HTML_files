@@ -1,0 +1,1 @@
+This is document inserted from the VS code to test
